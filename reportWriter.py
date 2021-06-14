@@ -38,7 +38,7 @@ import os
 
 
 # 1. API login credentials and base url
-api_token = 'Basic amVyZW15bi5ob3JzbGV5QHBvd2Vyc2lkZS5jb206a2l0dHlMaXR0ZXIxMjM='
+api_token = ''
 api_url_base = 'https://www.admin.cloud.powerside.com/v1/'
 
 # 2. User entered dates for analysis
